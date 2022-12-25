@@ -46,6 +46,7 @@
     
 
     2. BLOCK 2: 輸入想追蹤的商品之URL，可輸入多個URL，中間以","分開
+    ![df](docs/BLOCK2.png)
 
 <br>
 
