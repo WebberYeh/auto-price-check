@@ -36,7 +36,7 @@
 * 主程式指定區塊之修改
     1. BLOCK 1: mailaddress為自己的gmail帳號，password為剛剛得到的應用程式密碼，fpath為主程式所在資料夾的完整路徑，詳細如下圖所示，注意 **`windows路徑中的"\"在python裡為"\\"`**
     ![df](docs/fpath.png)
-
+    ![df](docs/BLOCK.png)
     <br>
 
     2. BLOCK 2: 輸入想追蹤的商品之URL，可輸入多個URL，中間以","分開
